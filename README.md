@@ -1,0 +1,5 @@
+Object Detection is the process of finding real-world object instances like cars, bikes, TVs, flowers, and humans in still images or videos. It allows for the recognition, localization, and detection of multiple objects within an image, which provides us with a much better understanding of an image as a whole. It is commonly used in applications such as image retrieval, security, surveillance, and advanced driver assistance systems (ADAS).
+This is my initial attempt at implementing real time object detection system using Tensorflow. It's still a work in progress. 
+Every object detection algorithm has a different way of working, but they all work on the same principle. Feature Extraction: They extract features from the input images at hand and use these features to determine the class of the image. Be it through MatLab, Open CV, Viola Jones, or deep learning.
+Tensorflow is Google’s open source machine learning framework for dataflow programming across a range of tasks.
+"# Object_Detection" 
