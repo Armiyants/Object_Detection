@@ -47,7 +47,7 @@ pillow==6.2.1
 prometheus-client==0.7.1
 prompt-toolkit==1.0.14
 protobuf==3.10.0
-Pygments==2.4.2
+Pygments==2.7.4
 PyInquirer==1.0.3
 pyparsing==2.4.2
 pyrsistent==0.15.4
